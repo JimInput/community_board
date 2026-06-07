@@ -1,0 +1,72 @@
+[
+    {
+        "id": 1,
+        "name": "Silvias Thompsonville Cafe",
+        "type": "Eastern European",
+        "img": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAHTqP0mERu71S4UfvKhATJiTeeF3GAikevhPbBnBbiTGDRRkUK3VHWYTPhjeBBy1I4Bc3OoYPoGbPBIHJKAX2bI41AtENaRxbxDDIIkpNcPhrH2ULN7Ce70oiqO6-GpUfuXsMsLkw=s1360-w1360-h1020",
+        "url": "https://thompsonvillecafe.com/"
+    },
+    {
+        "id": 2,
+        "name": "Yarde Tavern",
+        "type": "American, Bar",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/34/37/86/main-entrance.jpg?w=800&h=800&s=1",
+        "url": "https://yardetavern.com/"
+    },
+    {
+        "id": 3,
+        "name": "Country Diner",
+        "type": "American, Diner",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/36/1d/2c/seating-area-inside-is.jpg?w=800&h=800&s=1",
+        "url": "https://thecountrydiner.com/"
+    },
+    {
+        "id": 4,
+        "name": "Acapulcos Mexican Restaurant",
+        "type": "Mexican, Southwestern",
+        "img": "https://acapulcos.net/wp-content/uploads/2014/08/IMG_2830_web.jpg",
+        "url": "https://acapulcos.net/mexican-restaurant-locations/enfield-ct/"
+    },
+    {
+        "id": 5,
+        "name": "Hot Table",
+        "type": "Artisinal Paninis",
+        "img": "https://lh3.googleusercontent.com/gps-cs-s/APNQkAGbhs15OEmXwNbhm3HyeB_YPGErQq9FXFTo1qfpTbNgLREnRHH0aCQQe3tN9QpWvVG-jfaDIxOv6dLuH-yiKEHnyIitV-xCmpg5QaTmMdQEGj5hm6rOe5bWrC5NcZwa1taW6o4NmtgrDM4=s1360-w1360-h1020",
+        "url": "https://hottable.com/"
+    },
+    {
+        "id": 6,
+        "name": "Mark's Restaurant",
+        "type": "American, Fast Food",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/17/14/30/ec/photo3jpg.jpg?w=800&h=800&s=1",
+        "url": "https://www.facebook.com/marksofenfield/"
+    },
+    {
+        "id": 7,
+        "name": "Figaro Restaurant",
+        "type": "Italian",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/12/08/ca/bar-scene.jpg?w=800&h=800&s=1",
+        "url": "https://figaroct.com/"
+    },
+    {
+        "id": 8,
+        "name": "LongHorn Steakhouse",
+        "type": "American, Steakhouse",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/59/2c/e5/hostess-station.jpg?w=800&h=800&s=1",
+        "url": "https://www.longhornsteakhouse.com/locations/ct/enfield/enfield/5504"
+    },
+    {
+        "id": 9,
+        "name": "Angelina's Restaurant",
+        "type": "American",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0f/9a/61/05/dining-area.jpg?w=800&h=800&s=1",
+        "url": "https://angelinasct.com/"
+    },
+    {
+        "id": 10,
+        "name": "Lulu's Pizzeria and Family Restaurant",
+        "type": "Italian, Pizza",
+        "img": "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/0b/4c/68/7d/bar-scene.jpg?w=800&h=800&s=1",
+        "url": "https://luluspizzeria.com/"
+    }
+]
