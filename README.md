@@ -34,7 +34,9 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<a src='https://youtu.be/Rs066lgmR7M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<a href="https://youtu.be/Rs066lgmR7M" title="Video Walkthrough">
+  Video Walkthrough
+</a>
 
 Video created with Windows Screen Recorder
 
