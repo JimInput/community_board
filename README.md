@@ -34,13 +34,15 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented required features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://youtu.be/Rs066lgmR7M' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 Video created with Windows Screen Recorder
 
 ## Notes
 
 Describe any challenges encountered while building the app.
+
+No challenges really -- Just getting used to React and the intracacies there.
 
 ## License
 
